@@ -1,6 +1,6 @@
 {
   "name": "ck-dialogflow-webhook",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "SOVA dialog webhook",
   "homepage": "https://sova.ai",
   "authors": [
